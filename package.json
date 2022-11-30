@@ -1,0 +1,17 @@
+{
+  "name": "deleter",
+  "version": "1.0.0",
+  "description": "Delete folders like log temp wich are you dont need them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Saeed Ghorbaninezhad",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "get-folder-size": "^4.0.0",
+    "pm2": "^5.2.2"
+  }
+}
