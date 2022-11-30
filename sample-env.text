@@ -1,8 +1,0 @@
-#Folder path 
-FOLRED_PATH = ""
-
-#Check time ( minutes )
-TIME_CHECKING = 1
-
-#Folder deleted when it will bigger than this value, enter in GB
-MAX_FILE_SIZE = 0.0005
