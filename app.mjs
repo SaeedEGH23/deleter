@@ -27,4 +27,4 @@ setInterval(async () => {
   } else {
     console.log(`size is lower than your max size. ${maxSize}`);
   }
-}, checkTime * 6000);
+}, checkTime * 60000);
